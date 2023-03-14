@@ -138,3 +138,15 @@
     font-variant-caps: small-caps;
     font-feature-settings: "c2sc", "smcp";
 }
+
+/* второй */
+
+.sneaker-card_color_blue {
+    background: linear-gradient(#3CA3FC, #ffbc00);
+}
+
+.sneaker-card_color_green {
+    background: linear-gradient(#26C9F7, #00cd78);
+}
+
+
